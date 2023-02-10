@@ -18,4 +18,9 @@ body
 {
     font-size: 25px;
 }
-
+#cabecera
+{
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}

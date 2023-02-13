@@ -4,8 +4,18 @@ Un blog increíble  para el curso de Git y Github de Plazi
 
 Soy **Jose Carlos**
 
-```bash
-Hola!  $comentario #comentario
+```javascript
+
+ Hola!  $comentario #comentario
+ console.log()
+ 
 ```
 `click me`
 👋
+```javascript
+Git init
+Git add Nombre_del_archivo ||  git add .
+git commit -m "mensaje que detalle el commit" 
+```
+
+`click me`

@@ -6,9 +6,9 @@ Soy **Jose Carlos**
 
 ```javascript
 >
->Hola!  $comentario #comentario
+> Hola!  $comentario #comentario
 >
->console.log()
+> console.log()
 ```
 ```javascript
 Git init

@@ -10,12 +10,12 @@ Soy **Jose Carlos**
  console.log()
  
 ```
-`click me`
-👋
+
 ```javascript
 Git init
 Git add Nombre_del_archivo ||  git add .
 git commit -m "mensaje que detalle el commit" 
 ```
 
-`click me`
+`click me` 👋
+
